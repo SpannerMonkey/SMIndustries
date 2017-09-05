@@ -26,7 +26,7 @@ https://github.com/UmbraSpaceIndustries/UmbraSpaceIndustries/blob/master/USITool
 
 In addition to this, SMI incorporates the texture switching code from Firespitter. To comply with the requirements of Firespitter's license, the following permission notice, applicable to those parts of the code only, is included below:
 
-License: You may reuse code and textures from this mod, as long as you give credit in the download file and on the download post/page. Reuse of models with permission. No reselling. No redistribution of the whole pack without permission.
+License: You may reuse code and textures from this SM_Industries, as long as you give credit in the download file and on the download post/page. Reuse of models with permission. No reselling. No redistribution of the whole pack without permission.
 
 UV map texture guides are included so you can re-skin to your liking.
 
