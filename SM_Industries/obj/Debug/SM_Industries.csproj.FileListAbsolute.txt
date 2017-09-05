@@ -1,0 +1,10 @@
+C:\Users\Black Ops\KSP_DEV\GameData\000_USITools\SM_Industries.dll
+C:\Users\Black Ops\KSP_DEV\GameData\000_USITools\SM_Industries.pdb
+C:\Users\Black Ops\Desktop\MODS\SM_Industries\SM_Industries\obj\Debug\SM_Industries.csprojResolveAssemblyReference.cache
+C:\Users\Black Ops\Desktop\MODS\SM_Industries\SM_Industries\obj\Debug\SM_Industries.dll
+C:\Users\Black Ops\Desktop\MODS\SM_Industries\SM_Industries\obj\Debug\SM_Industries.pdb
+C:\Users\Tony\Documents\KSP_DEV\GameData\000_USITools\SMIndustries.dll
+C:\Users\Tony\Documents\KSP_DEV\GameData\000_USITools\SMIndustries.pdb
+C:\Users\Tony\Documents\C#\SM_Industries_Source\SM_Industries\SM_Industries\obj\Debug\SM_Industries.csprojResolveAssemblyReference.cache
+C:\Users\Tony\Documents\C#\SM_Industries_Source\SM_Industries\SM_Industries\obj\Debug\SMIndustries.dll
+C:\Users\Tony\Documents\C#\SM_Industries_Source\SM_Industries\SM_Industries\obj\Debug\SMIndustries.pdb
