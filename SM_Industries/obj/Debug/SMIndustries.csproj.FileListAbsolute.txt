@@ -1,9 +1,5 @@
-C:\Users\KSP_DEV\GameData\000_USITools\SMIndustries.dll
-C:\Users\Black Ops\Desktop\DCK\SMIndustries\obj\Debug\SMIndustries.csprojResolveAssemblyReference.cache
-C:\Users\Black Ops\Desktop\DCK\SMIndustries\obj\Debug\SMIndustries.dll
-C:\Users\Black Ops\Desktop\DCK\SMIndustries\obj\Debug\SMIndustries.pdb
-C:\Users\Black Ops\KSP_DEV\GameData\000_USITools\SMIndustries.dll
-C:\Users\Black Ops\KSP_DEV\GameData\000_USITools\SMIndustries.pdb
-C:\Users\Black Ops\Desktop\DCK\SMIndustries\SMIndustries\obj\Debug\SMIndustries.csprojResolveAssemblyReference.cache
-C:\Users\Black Ops\Desktop\DCK\SMIndustries\SMIndustries\obj\Debug\SMIndustries.dll
-C:\Users\Black Ops\Desktop\DCK\SMIndustries\SMIndustries\obj\Debug\SMIndustries.pdb
+C:\Users\Tony\Documents\C#\SMIndustries\SMIndustries\obj\Debug\SMIndustries.csprojResolveAssemblyReference.cache
+C:\Users\Tony\Documents\C#\SMIndustries\SMIndustries\obj\Debug\SMIndustries.dll
+C:\Users\Tony\Documents\C#\SMIndustries\SMIndustries\obj\Debug\SMIndustries.pdb
+C:\Users\Tony\KSP_DEV\GameData\000_USITools\SMIndustries.dll
+C:\Users\Tony\KSP_DEV\GameData\000_USITools\SMIndustries.pdb
