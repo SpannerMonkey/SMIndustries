@@ -24,11 +24,10 @@ This KSP Mod incorporates code from a part of USITools called PartCatalog.cs and
 
 https://github.com/UmbraSpaceIndustries/UmbraSpaceIndustries/blob/master/USITools/USITools/PartCatalog.cs
 
-In addition to this, SMI incorporates the texture switching code from Firespitter. To comply with the requirements of Firespitter's license, the following permission notice, applicable to those parts of the code only, is included below:
+In addition to this, SMI incorporates the texture switching code from Firespitter.  The prop spinner function, and various engine an animation features, some active at this point and some not. These classes have all been uniquely named to prevent any incompatability or conflict between SMIndustries and Firespitter
+To comply with the requirements of Firespitter's license, the following permission notice, applicable to those parts of the code only, is included below:
 
-License: You may reuse code and textures from this SM_Industries, as long as you give credit in the download file and on the download post/page. Reuse of models with permission. No reselling. No redistribution of the whole pack without permission.
-
-UV map texture guides are included so you can re-skin to your liking.
+License: You may reuse code and textures from this SM_Industries, as long as you give credit in the download file and on the download post/page. Reuse of models only with  permission. No reselling. No redistribution of the whole pack without permission.
 
 For reuse of the plugin, please either direct people to download the dll from my official release, OR recompile the wanted partmodule/class with a new class name to avoid conflicts.
 
