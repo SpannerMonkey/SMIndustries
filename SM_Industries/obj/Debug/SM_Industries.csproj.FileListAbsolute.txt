@@ -8,3 +8,8 @@ C:\Users\Tony\Documents\KSP_DEV\GameData\000_USITools\SMIndustries.pdb
 C:\Users\Tony\Documents\C#\SM_Industries_Source\SM_Industries\SM_Industries\obj\Debug\SM_Industries.csprojResolveAssemblyReference.cache
 C:\Users\Tony\Documents\C#\SM_Industries_Source\SM_Industries\SM_Industries\obj\Debug\SMIndustries.dll
 C:\Users\Tony\Documents\C#\SM_Industries_Source\SM_Industries\SM_Industries\obj\Debug\SMIndustries.pdb
+C:\Users\KSP_DEV\GameData\000_USITools\SMIndustries.dll
+C:\Users\KSP_DEV\GameData\000_USITools\SMIndustries.pdb
+C:\Users\Tony\Documents\SMIndustries\SM_Industries\obj\Debug\SM_Industries.csprojResolveAssemblyReference.cache
+C:\Users\Tony\Documents\SMIndustries\SM_Industries\obj\Debug\SMIndustries.dll
+C:\Users\Tony\Documents\SMIndustries\SM_Industries\obj\Debug\SMIndustries.pdb
