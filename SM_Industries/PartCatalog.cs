@@ -86,7 +86,8 @@ namespace SMIndustries
         private void SubCategories()
         {
             var icon = GenIcon(categoryTitle);
-            var filter = PartCategorizer.Instance.filters.Find(f => f.button.categoryName == category);
+            //var filter = PartCategorizer.Instance.filters.Find(f => f.button.categoryName == category); //orignal1.3
+            var filter = PartCategorizer.Instance.filters.Find(f => f.button.categorydisplayName == "#autoLOC_453547");//change for 1.3.1
             PartCategorizer.AddCustomSubcategoryFilter(filter, categoryTitle, categoryTitle, icon, EditorItemsFilter);
         }
 
