@@ -8,7 +8,9 @@ It is now a requirement that SM_Industries is used alongside the forenamed mods,
 This work provides the larger part of the EN_US localisation and will be added to as other managed mods are in turn processed for localisation .  Failure to use 1 copy of this dictionary in combination with the above named KSP mods will result in descriptions and titles being rendered as meaningless strings 
 
 
-The bulk of the dictionary work was created and assembled by @gomker, using a combination of scripts in order to process such a large amount of individual parts . All of the initial code development and adaptation was carried out and supplied by Doctor Davinci
+The bulk of the dictionary work was created and assembled by @gomker, using a combination of scripts in order to process such a large amount of individual parts . All of the initial code development and adaptation was carried out and supplied by Doctor Davinci.
+
+Credits and collaborators, gomker, XOC2008,DoctorDavinci, WrenchHead, TheDog, 
 
 Build Status License: GPL v3 License
 
@@ -24,7 +26,7 @@ This KSP Mod incorporates code from a part of USITools called PartCatalog.cs and
 
 https://github.com/UmbraSpaceIndustries/UmbraSpaceIndustries/blob/master/USITools/USITools/PartCatalog.cs
 
-In addition to this, SMI incorporates the texture switching code from Firespitter.  The prop spinner function, and various engine an animation features, some active at this point and some not. These classes have all been uniquely named to prevent any incompatability or conflict between SMIndustries and Firespitter
+In addition to this, SMI incorporates the texture switching code from Firespitter. . These classes have all been uniquely named to prevent any incompatability or conflict between SMIndustries and Firespitter
 To comply with the requirements of Firespitter's license, the following permission notice, applicable to those parts of the code only, is included below:
 
 License: You may reuse code and textures from this SM_Industries, as long as you give credit in the download file and on the download post/page. Reuse of models only with  permission. No reselling. No redistribution of the whole pack without permission.

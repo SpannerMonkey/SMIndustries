@@ -56,11 +56,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Engines\SMIengineWrapper.cs" />
-    <Compile Include="Engines\SMIndustriesengine.cs" />
-    <Compile Include="Engines\SMIPropellerSpinner.cs" />
     <Compile Include="MeshCreator.cs" />
-    <Compile Include="Misc\SMIanimateGeneric.cs" />
     <Compile Include="Misc\SMIresource.cs" />
     <Compile Include="Misc\SMnodeLoader.cs" />
     <Compile Include="PartCatalog.cs" />
