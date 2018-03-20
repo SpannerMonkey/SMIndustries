@@ -12,8 +12,6 @@ The bulk of the dictionary work was created and assembled by @gomker, using a co
 
 Credits and collaborators, gomker, XOC2008,DoctorDavinci, WrenchHead, TheDog, 
 
-Build Status License: GPL v3 License
-
 Copyright © 2017 Tony Jones
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.

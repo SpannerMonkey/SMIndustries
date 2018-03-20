@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("SMIndustries for ksp 1.3.1  detune")]
-[assembly: AssemblyDescription("removing Propellor spinner and extras from SMI suite retrograde step 1")]
+[assembly: AssemblyTitle("SMIndustries for ksp 1.4.1 SMM FS")]
+[assembly: AssemblyDescription("SMM extended 141")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("SMIndustries Paint Shop")]
+[assembly: AssemblyProduct("SMIndustriesustriesustries Paint Shop more cats")]
 [assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -31,5 +31,5 @@ using System.Runtime.InteropServices;
 // You can specify all the values or you can default the Build and Revision Numbers 
 // by using the '*' as shown below:
 // [assembly: AssemblyVersion("1.0.*")]
-[assembly: AssemblyVersion("0.1.0.97")]
-[assembly: AssemblyFileVersion("0.1.0.97")]
+[assembly: AssemblyVersion("0.1.0.1")]
+[assembly: AssemblyFileVersion("0.1.0.1")]

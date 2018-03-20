@@ -1,0 +1,8 @@
+SM Industries Version
+************************
+V0.0.1 July 03 2017
+Esablish repo first draft localisation. First full release
+************************
+V0.1.1
+Addition of custon categories  and SM Paintshop One touch texture switching
+************************

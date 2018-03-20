@@ -22,7 +22,62 @@ namespace SMIndustries
             set { }
         }
     }
-
+    [KSPAddon(KSPAddon.Startup.MainMenu, true)]
+    public class SMArmoryMissilesFilter : BaseFilter
+    {
+        protected override string Manufacturer
+        {
+            get { return "SM Armory Missiles"; }
+            set { }
+        }
+        protected override string categoryTitle
+        {
+            get { return "SMArmoryMissiles"; }
+            set { }
+        }
+    }
+    [KSPAddon(KSPAddon.Startup.MainMenu, true)]
+    public class SMArmoryGunsFilter : BaseFilter
+    {
+        protected override string Manufacturer
+        {
+            get { return "SM Armory Guns and Turrets"; }
+            set { }
+        }
+        protected override string categoryTitle
+        {
+            get { return "SMArmoryGuns"; }
+            set { }
+        }
+    }
+    [KSPAddon(KSPAddon.Startup.MainMenu, true)]
+    public class SMArmoryTanksFilter : BaseFilter
+    {
+        protected override string Manufacturer
+        {
+            get { return "SM Armory Tanks"; }
+            set { }
+        }
+        protected override string categoryTitle
+        {
+            get { return "SMArmoryTanks"; }
+            set { }
+        }
+    }
+    [KSPAddon(KSPAddon.Startup.MainMenu, true)]
+    public class SMArmoryTruckssFilter : BaseFilter
+    {
+        protected override string Manufacturer
+        {
+            get { return "SM Armory Trucks"; }
+            set { }
+        }
+        protected override string categoryTitle
+        {
+            get { return "SMArmoryTrucks"; }
+            set { }
+        }
+    }
     [KSPAddon(KSPAddon.Startup.MainMenu, true)]
     public class SMMarineFilter : BaseFilter
     {
@@ -48,6 +103,20 @@ namespace SMIndustries
         protected override string categoryTitle
         {
             get { return "FNE"; }
+            set { }
+        }
+    }
+    [KSPAddon(KSPAddon.Startup.MainMenu, true)]
+    public class SMMarineFSFilter : BaseFilter
+    {
+        protected override string Manufacturer
+        {
+            get { return "SM Marine FullSize"; }
+            set { }
+        }
+        protected override string categoryTitle
+        {
+            get { return "SMMarineFS"; }
             set { }
         }
     }
