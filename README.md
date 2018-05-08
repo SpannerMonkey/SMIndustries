@@ -1,5 +1,5 @@
 # SM_Industries  
-This forms an essential part of the following mods. SM Armory, SM Marine, SMI MissilesLaunchers, SMI FullSizeMarine, SM AFV's, LargeBoatParts, SM ASW, SM OST and T, SM Stryker, NED
+This forms an essential part of the following mods. SM Armory, SM Marine, SMI MissilesLaunchers, SMI FullSizeMarine, SM AFV's, LargeBoatParts pack, SM Old School Turrets and Tanks, SM Stryker Aerospace and armory, NED
 SM Mods localisation , Category creation and PaintShop for all SM Managed and owned KSP mods 
 
 To use in combination with any of the forenamed KSP Mods place one (1) copy of the SMIndustries folder withing your GameData folder.
@@ -8,12 +8,15 @@ It is now a requirement that SM_Industries is used alongside the forenamed mods,
 This work provides the larger part of the EN_US localisation and will be added to as other managed mods are in turn processed for localisation .  Failure to use 1 copy of this dictionary in combination with the above named KSP mods will result in descriptions and titles being rendered as meaningless strings 
 
 
-The bulk of the original dictionary work was created and assembled by @gomker, using a combination of scripts in order to process such a large amount of individual parts . All of the initial code development and adaptation was carried out and supplied by Doctor Davinci.
-Splash screen courtesy DoctorDavinci from original by Snark
+The bulk of the original dictionary work was created and assembled by @gomker, using a combination of scripts in order to process such a large amount of individual parts . 
 
-Credits and collaborators, gomker, XOC2008,DoctorDavinci,Kergan,TheDog, WrenchHead,  
+All of the initial code development and adaptation was carried out and supplied by Doctor Davinci.
 
-Copyright © 2017 Tony Jones
+Splash screen thanks and tag line courtesy DoctorDavinci from original by Snark
+
+Credits and collaborators, gomker, XOC2008,DoctorDavinci,Kergan,TheDog, WrenchHead
+
+Copyright © 2018 Tony Jones
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
