@@ -1,5 +1,5 @@
 # SM_Industries  
-This forms an essential part of the following mods. SM Armory, SM Marine, SM AFV's, LargeBoatParts, SM ASW, SM OST and T, SM Stryker, NED
+This forms an essential part of the following mods. SM Armory, SM Marine, SMI MissilesLaunchers, SMI FullSizeMarine, SM AFV's, LargeBoatParts, SM ASW, SM OST and T, SM Stryker, NED
 SM Mods localisation , Category creation and PaintShop for all SM Managed and owned KSP mods 
 
 To use in combination with any of the forenamed KSP Mods place one (1) copy of the SMIndustries folder withing your GameData folder.
@@ -8,9 +8,10 @@ It is now a requirement that SM_Industries is used alongside the forenamed mods,
 This work provides the larger part of the EN_US localisation and will be added to as other managed mods are in turn processed for localisation .  Failure to use 1 copy of this dictionary in combination with the above named KSP mods will result in descriptions and titles being rendered as meaningless strings 
 
 
-The bulk of the dictionary work was created and assembled by @gomker, using a combination of scripts in order to process such a large amount of individual parts . All of the initial code development and adaptation was carried out and supplied by Doctor Davinci.
+The bulk of the original dictionary work was created and assembled by @gomker, using a combination of scripts in order to process such a large amount of individual parts . All of the initial code development and adaptation was carried out and supplied by Doctor Davinci.
+Splash screen courtesy DoctorDavinci from original by Snark
 
-Credits and collaborators, gomker, XOC2008,DoctorDavinci, WrenchHead, TheDog, 
+Credits and collaborators, gomker, XOC2008,DoctorDavinci,Kergan,TheDog, WrenchHead,  
 
 Copyright © 2017 Tony Jones
 
@@ -42,3 +43,4 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+

@@ -1,8 +1,12 @@
 SM Industries Version
 ************************
 V0.0.1 July 03 2017
-Esablish repo first draft localisation. First full release
+Establish repo first draft localisation. First full release
 ************************
 V0.1.1
-Addition of custon categories  and SM Paintshop One touch texture switching
+Addition of custom categories  and SM Paint shop One touch texture switching
+************************
+
+V0.2.0.5
+KSP 1.4.3 update and refresh minor changes to suit U2017
 ************************

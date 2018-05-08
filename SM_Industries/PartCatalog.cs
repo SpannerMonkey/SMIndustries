@@ -120,6 +120,20 @@ namespace SMIndustries
             set { }
         }
     }
+    [KSPAddon(KSPAddon.Startup.MainMenu, true)]
+    public class SMAviationFilter : BaseFilter
+    {
+        protected override string Manufacturer
+        {
+            get { return "SMI Aviation"; }
+            set { }
+        }
+        protected override string categoryTitle
+        {
+            get { return "SMAviation"; }
+            set { }
+        }
+    }
     public abstract class BaseFilter : MonoBehaviour
     {
         private readonly List<AvailablePart> parts = new List<AvailablePart>();

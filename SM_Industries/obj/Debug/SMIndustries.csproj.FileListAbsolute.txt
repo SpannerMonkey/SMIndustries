@@ -1,5 +1,0 @@
-C:\Users\Tony\Documents\C#\SMIndustries\SMIndustries\obj\Debug\SMIndustries.csprojResolveAssemblyReference.cache
-C:\Users\Tony\Documents\C#\SMIndustries\SMIndustries\obj\Debug\SMIndustries.dll
-C:\Users\Tony\Documents\C#\SMIndustries\SMIndustries\obj\Debug\SMIndustries.pdb
-C:\Users\Tony\KSP_DEV\GameData\000_USITools\SMIndustries.dll
-C:\Users\Tony\KSP_DEV\GameData\000_USITools\SMIndustries.pdb
