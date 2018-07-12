@@ -10,3 +10,5 @@ Addition of custom categories  and SM Paint shop One touch texture switching
 V0.2.0.5
 KSP 1.4.3 update and refresh minor changes to suit U2017
 ************************
+
+Version 1.04  1.4.x update.  Version number sort out .  Dictionary update, Patch updates
